@@ -54,7 +54,7 @@ def list_operations(numbers):
     return sum(numbers), max(numbers), min(numbers)
     pass
 
-def dict_operations(students_dict):git
+def dict_operations(students_dict):
     """
     Find students with scores above 80.
     Args:
