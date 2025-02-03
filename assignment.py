@@ -78,7 +78,7 @@ def logical_ops(x, y):
         x (bool): First boolean
         y (bool): Second boolean
     Returns:
-        dict: Results of logical operations
+        dict: Results of logical operations hello 
     """
     pass
 
@@ -89,6 +89,6 @@ def bitwise_ops(a, b):
         a (int): First integer
         b (int): Second integer
     Returns:
-        dict: Results of bitwise operations
+        dict: Results of bitwise operations test
     """
     pass
